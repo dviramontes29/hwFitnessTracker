@@ -1,0 +1,25 @@
+{
+  "name": "hwFitnessTracker",
+  "version": "1.0.0",
+  "description": "W9 hw#1 due thurs 9/10/2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dviramontes29/hwFitnessTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dviramontes29/hwFitnessTracker/issues"
+  },
+  "homepage": "https://github.com/dviramontes29/hwFitnessTracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4",
+    "morgan": "^1.10.0"
+  }
+}
